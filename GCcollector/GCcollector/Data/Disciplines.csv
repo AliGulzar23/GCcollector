@@ -1,0 +1,884 @@
+﻿Id,Discipline
+1,Computer Science
+1,Cyber Security
+1,Data Science
+1,Hardware
+1,IT Architecture
+1,Information Technology
+2,Computer Science
+2,Information Technology
+2,Software
+3,Computer Science
+3,Maths
+3,Software
+3,Systems
+4,Computer Science
+4,Hardware
+4,Software
+4,Systems
+5,Computer Science
+5,Information Technology
+5,Software
+6,Computer Science
+6,Information Technology
+6,Software
+7,Analytics
+7,Computer Science
+7,Information Technology
+7,Maths
+8,Aerospace
+8,Computer Science
+8,Information Technology
+8,Manufacturing
+8,Mechanical
+9,Analytics
+9,Computer Science
+9,Data Science
+9,Information Technology
+9,Software
+9,Statistics
+10,Business
+10,Computer Science
+10,Data Science
+10,Information Technology
+10,Software
+10,Systems
+10,Web Development
+11,Computer Science
+11,Cyber Security
+11,Information Technology
+11,Software
+11,Systems
+12,Analytics
+12,Computer Science
+12,Data Science
+12,Statistics
+13,Computer Science
+13,Data Science
+13,Information Technology
+13,Software
+14,Analytics
+14,Computer Science
+14,Data Science
+14,Information Technology
+14,Software
+14,Systems
+15,Computer Science
+15,Cyber Security
+15,Information Technology
+16,Computer Science
+16,Hardware
+16,Information Technology
+16,Software
+17,Business
+17,Computer Science
+17,Information Technology
+17,Software
+18,Computer Science
+18,Information Technology
+18,Software
+18,Systems
+19,Chemical
+19,Computer Science
+19,Electrical
+19,Electronic
+19,Mechanical
+20,Computer Science
+20,Information Technology
+20,Software
+20,Systems
+21,Analytics
+21,Computer Science
+21,Data Science
+21,Information Technology
+21,Software
+21,Systems
+21,Web Development
+22,Computer Science
+22,Electronic
+22,Information Technology
+22,Mechatronics
+22,Software
+23,Computer Science
+23,Electrical
+23,Electronic
+23,Physics
+23,Robotics
+23,Software
+24,Computer Science
+24,Information Technology
+24,Naval Architecture
+24,Software
+24,Systems
+24,Web Development
+25,Analytics
+25,Computer Science
+25,Data Science
+25,Information Technology
+25,Software
+26,Computer Science
+26,Information Technology
+26,Software
+27,Analytics
+27,Computer Science
+27,Data Science
+27,Information Technology
+27,Maths
+27,Physics
+27,Statistics
+28,Computer Science
+28,Information Technology
+28,Software
+28,Telecommunications
+28,Web Development
+29,Analytics
+29,Computer Science
+29,Cyber Security
+29,Data Science
+29,Information Technology
+29,Maths
+29,Software
+29,Statistics
+30,Analytics
+30,Business
+30,Chemistry
+30,Computer Science
+30,Economics
+30,Finance
+30,Maths
+30,Physics
+30,Statistics
+31,Computer Science
+31,Electrical
+31,Electronic
+31,Information Technology
+31,Maths
+31,Mechanical
+31,Physics
+32,Computer Science
+32,Cyber Security
+32,Electrical
+32,Electronic
+32,Information Technology
+32,Mechanical
+32,Software
+32,Systems
+33,Computer Science
+33,Electronic
+33,IT Architecture
+33,Information Technology
+33,Physics
+33,Software
+33,Systems
+33,Web Development
+34,Analytics
+34,Biology
+34,Business
+34,Chemistry
+34,Computer Science
+34,Economics
+34,Finance
+34,Information Technology
+34,Maths
+34,Physics
+34,Statistics
+35,Chemistry
+35,Computer Science
+35,Electrical
+35,Electronic
+35,Hardware
+35,Manufacturing
+35,Marine
+35,Materials & Minerals
+35,Maths
+35,Mechanical
+35,Physics
+35,Software
+35,Systems
+36,Computer Science
+36,Information Technology
+36,Software
+37,Computer Science
+37,Information Technology
+37,Software
+37,Systems
+37,Telecommunications
+38,Computer Science
+38,Cyber Security
+38,Data Science
+38,Hardware
+38,IT Architecture
+38,Information Technology
+38,Naval Architecture
+38,Robotics
+38,Software
+38,Systems
+38,Telecommunications
+38,Web Development
+39,Analytics
+39,Computer Science
+39,Data Science
+39,Maths
+40,Computer Science
+40,Data Science
+40,Robotics
+40,Software
+41,Computer Science
+41,Data Science
+41,Robotics
+41,Software
+42,Computer Science
+42,Data Science
+42,Information Technology
+42,Software
+42,Systems
+43,Computer Science
+43,Information Technology
+43,Project Management
+44,Computer Science
+44,Information Technology
+44,Software
+44,Systems
+45,Computer Science
+45,Data Science
+45,Hardware
+45,Information Technology
+45,Software
+45,Systems
+46,Computer Science
+46,Cyber Security
+46,Data Science
+46,Hardware
+46,IT Architecture
+46,Information Technology
+46,Naval Architecture
+46,Robotics
+46,Software
+46,Systems
+46,Telecommunications
+46,Web Development
+47,Analytics
+47,Computer Science
+47,Cyber Security
+47,Data Science
+47,Hardware
+47,IT Architecture
+47,Information Technology
+47,Naval Architecture
+47,Robotics
+47,Software
+47,Systems
+47,Telecommunications
+47,Web Development
+48,Computer Science
+48,Data Science
+48,Economics
+48,Maths
+48,Software
+49,Computer Science
+49,Data Science
+49,Economics
+49,Maths
+49,Software
+50,Computer Science
+50,Data Science
+50,Maths
+50,Software
+50,Systems
+51,Computer Science
+51,Data Science
+51,Information Technology
+51,Software
+51,Systems
+52,Computer Science
+52,Electrical
+52,Electronic
+52,Software
+52,Systems
+53,Analytics
+53,Chemical
+53,Computer Science
+53,Data Science
+53,Energy/Renewables
+53,Software
+54,Computer Science
+54,Data Science
+54,Electronic
+54,Maths
+54,Physics
+54,Software
+54,Statistics
+55,Computer Science
+55,Information Technology
+55,Software
+55,Web Development
+56,Automotive
+56,Computer Science
+56,Electronic
+56,Hardware
+56,Mechanical
+56,Mechatronics
+56,Systems
+57,Computer Science
+57,Data Science
+57,Information Technology
+57,Maths
+57,Physics
+57,Robotics
+57,Systems
+58,Business
+58,Computer Science
+58,Information Technology
+58,Software
+59,Analytics
+59,Computer Science
+59,Data Science
+59,Information Technology
+59,Software
+59,Systems
+60,Computer Science
+60,Hardware
+60,Information Technology
+60,Software
+60,Systems
+61,Computer Science
+61,Control & Instrumentation
+61,Cyber Security
+61,Electrical
+61,Electronic
+61,Maths
+61,Mechanical
+61,Physics
+61,Robotics
+62,Computer Science
+62,Cyber Security
+62,Data Science
+62,Hardware
+62,IT Architecture
+62,Information Technology
+62,Naval Architecture
+62,Robotics
+62,Software
+62,Systems
+62,Telecommunications
+62,Web Development
+63,Analytics
+63,Chemistry
+63,Computer Science
+63,Cyber Security
+63,Data Science
+63,Energy/Renewables
+63,Finance
+63,Geology
+63,Geophysics
+63,Hardware
+63,IT Architecture
+63,Information Technology
+63,Maths
+63,Physics
+63,Robotics
+63,Software
+63,Statistics
+63,Systems
+63,Telecommunications
+63,Web Development
+64,Information Technology
+64,Software
+64,Systems
+65,Analytics
+65,Business
+65,Data Science
+65,Economics
+65,Finance
+65,Hardware
+65,Information Technology
+65,Maths
+65,Statistics
+66,Analytics
+66,Economics
+66,Finance
+66,Maths
+67,Analytics
+67,Data Science
+67,Information Technology
+68,Computer Science
+68,Software
+68,Systems
+69,Analytics
+69,Information Technology
+69,Maths
+69,Statistics
+70,Analytics
+70,Data Science
+70,Information Technology
+70,Maths
+70,Statistics
+71,Analytics
+71,Chemistry
+71,Computer Science
+71,Cyber Security
+71,Data Science
+71,Energy/Renewables
+71,Finance
+71,Geology
+71,Geophysics
+71,Hardware
+71,IT Architecture
+71,Information Technology
+71,Maths
+71,Physics
+71,Robotics
+71,Software
+71,Statistics
+71,Systems
+71,Telecommunications
+71,Web Development
+72,All STEM disciplines
+73,Business
+73,Economics
+73,Finance
+74,Business
+74,Economics
+74,Finance
+74,Maths
+75,Business
+75,Economics
+75,Finance
+76,Business
+76,Economics
+76,Finance
+77,Analytics
+77,Economics
+77,Finance
+77,Maths
+78,Business
+78,Computer Science
+78,Data Science
+78,Information Technology
+78,Software
+78,Systems
+78,Web Development
+79,Business
+79,Information Technology
+79,Software
+79,Web Development
+80,Business
+80,Computer Science
+80,Information Technology
+80,Software
+80,Systems
+81,Analytics
+81,Business
+81,Data Science
+81,Product Design
+81,Software
+81,Systems
+82,Analytics
+82,Computer Science
+82,Data Science
+82,Maths
+83,Computer Science
+83,Data Science
+83,Information Technology
+83,Software
+83,Systems
+84,Analytics
+84,Data Science
+84,Information Technology
+85,Computer Science
+85,Data Science
+85,Robotics
+85,Software
+86,Analytics
+86,Computer Science
+86,Information Technology
+86,Maths
+87,Analytics
+87,Computer Science
+87,Information Technology
+87,Maths
+87,Software
+87,Systems
+88,Aerodynamics
+88,Aeronautics
+88,Aerospace
+88,Automotive
+88,Avionics
+88,Bioengineering
+88,Biology
+88,Biomedical
+88,Biotechnology
+88,Business
+88,Chemistry
+88,Computer Science
+88,Control & Instrumentation
+88,Cyber Security
+88,Economics
+88,Electrical
+88,Electronic
+88,Environmental Science
+88,Geology
+88,Geophysics
+88,Hardware
+88,IT Architecture
+88,Information Technology
+88,Manufacturing
+88,Materials & Minerals
+88,Materials Science
+88,Maths
+88,Mechanical
+88,Metallurgy
+88,Pharmacology
+88,Physics
+88,Product Design
+88,Robotics
+88,Software
+88,Sustainability
+88,Systems
+88,Telecommunications
+89,Computer Science
+89,Cyber Security
+89,Data Science
+89,Hardware
+89,IT Architecture
+89,Information Technology
+89,Naval Architecture
+89,Robotics
+89,Software
+89,Systems
+89,Telecommunications
+89,Web Development
+90,Computer Science
+90,Cyber Security
+90,Data Science
+90,Hardware
+90,IT Architecture
+90,Information Technology
+90,Naval Architecture
+90,Robotics
+90,Software
+90,Systems
+90,Telecommunications
+90,Web Development
+91,Computer Science
+91,Cyber Security
+91,Data Science
+91,Hardware
+91,IT Architecture
+91,Information Technology
+91,Naval Architecture
+91,Robotics
+91,Software
+91,Systems
+91,Telecommunications
+91,Web Development
+92,Computer Science
+92,Cyber Security
+92,Data Science
+92,Hardware
+92,IT Architecture
+92,Information Technology
+92,Naval Architecture
+92,Robotics
+92,Software
+92,Systems
+92,Telecommunications
+92,Web Development
+93,Analytics
+93,Computer Science
+93,Data Science
+93,Information Technology
+93,Software
+93,Systems
+94,Energy/Renewables
+94,Environment & Sustainability
+94,Information Technology
+94,Software
+94,Sustainability
+95,Computer Science
+95,Data Science
+95,Information Technology
+95,Maths
+95,Physics
+95,Robotics
+95,Systems
+96,Analytics
+96,Architecture
+96,Chemistry
+96,Civil
+96,Geotechnical
+96,Information Technology
+96,Physics
+96,Structural
+97,Analytics
+97,Business
+97,Finance
+97,Information Technology
+97,Maths
+98,Aerospace
+98,Information Technology
+98,Manufacturing
+98,Mechanical
+98,Systems
+99,Aerospace
+99,Manufacturing
+99,Marine
+99,Mechanical
+99,Nuclear
+100,Aerospace
+100,Manufacturing
+100,Materials & Minerals
+100,Materials Science
+100,Mechanical
+101,Computer Science
+101,Data Science
+101,Information Technology
+101,Software
+101,Systems
+102,Aerodynamics
+102,Aeronautics
+102,Aerospace
+102,Avionics
+102,Marine
+102,Naval Architecture
+103,Computer Science
+103,Cyber Security
+103,Data Science
+103,Information Technology
+104,Computer Science
+104,Data Science
+104,Maths
+104,Software
+104,Systems
+105,Civil
+105,Environment & Sustainability
+105,Geotechnical
+105,Water/Hydrology
+106,Computer Science
+106,Information Technology
+106,Software
+107,Computer Science
+107,Information Technology
+107,Software
+107,Systems
+108,Analytics
+108,Business
+108,Finance
+108,Maths
+109,Analytics
+109,Business
+109,Finance
+109,Maths
+110,Analytics
+110,Finance
+110,Maths
+111,Analytics
+111,Finance
+111,Maths
+112,Analytics
+112,Business
+112,Finance
+112,Maths
+113,Analytics
+113,Finance
+113,Maths
+114,Analytics
+114,Finance
+114,Maths
+115,Computer Science
+115,Software
+115,Systems
+116,Analytics
+116,Data Science
+116,Software
+117,Mechanical
+117,Nuclear
+118,Analytics
+118,Business
+118,Finance
+118,Maths
+119,Analytics
+119,Biology
+119,Business
+119,Chemistry
+119,Computer Science
+119,Economics
+119,Finance
+119,Information Technology
+119,Maths
+119,Physics
+119,Statistics
+120,Analytics
+120,Cyber Security
+120,Economics
+120,IT Architecture
+120,Information Technology
+120,Maths
+120,Software
+120,Statistics
+121,Analytics
+121,Business
+121,Economics
+121,Finance
+121,Maths
+121,Statistics
+122,Analytics
+122,Business
+122,Data Science
+122,Energy/Renewables
+122,Environment & Sustainability
+122,Maths
+122,Statistics
+123,Analytics
+123,Business
+123,Computer Science
+123,Economics
+123,Finance
+123,Information Technology
+123,Maths
+123,Software
+123,Statistics
+123,Systems
+124,Analytics
+124,Business
+124,Data Science
+124,Economics
+124,Finance
+124,Maths
+124,Statistics
+125,Business
+125,Economics
+125,Finance
+125,Maths
+125,Statistics
+126,Analytics
+126,Computer Science
+126,Economics
+126,Information Technology
+126,Maths
+126,Statistics
+127,Civil
+127,Construction Management
+127,Infrastructure
+127,Statistics
+127,Transport Planning
+128,Civil
+128,Construction Management
+128,Infrastructure
+128,Statistics
+128,Transport Planning
+129,Analytics
+129,Business
+129,Economics
+129,Finance
+129,Maths
+129,Statistics
+130,Civil
+130,Economics
+130,Geology
+130,Statistics
+130,Transport Planning
+131,Analytics
+131,Civil
+131,Economics
+131,Geology
+131,Statistics
+131,Transport Planning
+132,Analytics
+132,Data Science
+132,Maths
+132,Statistics
+133,Analytics
+133,Data Science
+133,Maths
+133,Statistics
+134,Analytics
+134,Data Science
+134,Finance
+134,Maths
+134,Statistics
+135,Aerospace
+135,Automotive
+135,Civil
+135,Electrical
+135,Electronic
+135,Maths
+135,Mechanical
+135,Process
+135,Statistics
+136,Computer Science
+136,Data Science
+136,Electronic
+136,Maths
+136,Physics
+136,Software
+136,Statistics
+137,Analytics
+137,Computer Science
+137,Data Science
+137,Statistics
+138,Computer Science
+138,Data Science
+138,Maths
+138,Physics
+138,Robotics
+138,Statistics
+139,Analytics
+139,Computer Science
+139,Data Science
+139,Information Technology
+139,Maths
+139,Physics
+139,Statistics
+140,Analytics
+140,Business
+140,Economics
+140,Finance
+140,Maths
+140,Statistics
+141,Analytics
+141,Business
+141,Data Science
+141,Economics
+141,Finance
+141,Maths
+141,Statistics
+142,Analytics
+142,Business
+142,Data Science
+142,Economics
+142,Finance
+142,Hardware
+142,Information Technology
+142,Maths
+142,Statistics
+143,Analytics
+143,Business
+143,Data Science
+143,Economics
+143,Finance
+143,Hardware
+143,Information Technology
+143,Maths
+143,Statistics
+144,Analytics
+144,Business
+144,Data Science
+144,Economics
+144,Finance
+144,Hardware
+144,Information Technology
+144,Maths
+144,Statistics
+145,Analytics
+145,Data Science
+145,Finance
+145,Maths
+145,Statistics
+146,Analytics
+146,Business
+146,Data Science
+146,Information Technology
+146,Maths
+146,Software
+146,Statistics
