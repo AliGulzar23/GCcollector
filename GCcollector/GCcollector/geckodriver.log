@@ -17898,3 +17898,1386 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1685904675376	geckodriver	INFO	Listening on 127.0.0.1:45595
+1685904675399	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaT7WJi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685904772394	geckodriver	INFO	Listening on 127.0.0.1:50387
+1685904772396	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNQ0oh9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685909361482	geckodriver	INFO	Listening on 127.0.0.1:46651
+1685909436671	geckodriver	INFO	Listening on 127.0.0.1:46931
+1685909436672	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDs3yBj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685909461969	Marionette	INFO	Marionette enabled
+1685909461971	Marionette	INFO	Listening on port 38025
+Read port: 38025
+WebDriver BiDi listening on ws://127.0.0.1:52811
+1685909462080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52811/devtools/browser/f83bc929-6ab6-413f-88ca-c0d9bd5339b1
+[Child 18889, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18795, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685909481207	Marionette	INFO	Stopped listening on port 38025
+1685909542394	geckodriver	INFO	Listening on 127.0.0.1:42733
+1685909542395	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletW27UJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685909552563	geckodriver	INFO	Listening on 127.0.0.1:39613
+1685909552564	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1CM4uX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685909556958	Marionette	INFO	Marionette enabled
+1685909556960	Marionette	INFO	Listening on port 34337
+Read port: 34337
+WebDriver BiDi listening on ws://127.0.0.1:42321
+1685909557086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42321/devtools/browser/89d8088d-cdc5-4a22-9cd2-f72b99ced7c5
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+1685909996292	geckodriver	INFO	Listening on 127.0.0.1:57087
+1685909996294	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCsAFaV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685910021578	Marionette	INFO	Marionette enabled
+1685910021580	Marionette	INFO	Listening on port 33469
+Read port: 33469
+WebDriver BiDi listening on ws://127.0.0.1:34759
+1685910021676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34759/devtools/browser/010b2244-c504-4691-97d0-042bc167694c
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19386, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1685910023328	Marionette	INFO	Stopped listening on port 34337
+[Child 20013, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19915, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685910027743	Marionette	INFO	Stopped listening on port 33469
+1685910062736	geckodriver	INFO	Listening on 127.0.0.1:48379
+1685910062738	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuBE40I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685910088030	Marionette	INFO	Marionette enabled
+1685910088031	Marionette	INFO	Listening on port 34293
+Read port: 34293
+WebDriver BiDi listening on ws://127.0.0.1:52591
+1685910088140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52591/devtools/browser/a68b9507-5778-4da3-bad9-777db342d1f1
+[Child 20411, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1685910179428	geckodriver	INFO	Listening on 127.0.0.1:48183
+1685910179430	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemts2nN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685910204720	Marionette	INFO	Marionette enabled
+1685910204722	Marionette	INFO	Listening on port 42765
+Read port: 42765
+WebDriver BiDi listening on ws://127.0.0.1:55615
+1685910204836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55615/devtools/browser/b84b8e22-7b85-4a5d-971b-def18cc05b55
+[Child 20830, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1685910308013	geckodriver	INFO	Listening on 127.0.0.1:41995
+1685910308015	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEeRdC3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685910333301	Marionette	INFO	Marionette enabled
+1685910333303	Marionette	INFO	Listening on port 40883
+WebDriver BiDi listening on ws://127.0.0.1:42647
+Read port: 40883
+1685910333411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42647/devtools/browser/4ec3cb24-3c83-4494-8ee6-c4928b32c6eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21212, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685910354656	Marionette	INFO	Stopped listening on port 40883
+1685910477333	geckodriver	INFO	Listening on 127.0.0.1:43555
+1685910477334	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQIYFKq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685910502643	Marionette	INFO	Marionette enabled
+1685910502645	Marionette	INFO	Listening on port 42519
+Read port: 42519
+WebDriver BiDi listening on ws://127.0.0.1:49057
+1685910502747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49057/devtools/browser/0d385c97-a914-46e1-a5ed-1a5e3f3385d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 22102, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22107, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22004, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685910511995	Marionette	INFO	Stopped listening on port 42519
+1685910527379	geckodriver	INFO	Listening on 127.0.0.1:37531
+1685910527381	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "60561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTY3WSW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685910552667	Marionette	INFO	Marionette enabled
+1685910552669	Marionette	INFO	Listening on port 35915
+WebDriver BiDi listening on ws://127.0.0.1:60561
+Read port: 35915
+1685910552850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60561/devtools/browser/1552e2f2-9ef6-485c-8cb8-031457553e5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 22574, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 22574, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 22686, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22470, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685910563092	Marionette	INFO	Stopped listening on port 35915
+1686066775014	geckodriver	INFO	Listening on 127.0.0.1:49299
+1686066802971	geckodriver	INFO	Listening on 127.0.0.1:42523
+1686066802973	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegarKli"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686066828294	Marionette	INFO	Marionette enabled
+1686066828296	Marionette	INFO	Listening on port 41051
+Read port: 41051
+WebDriver BiDi listening on ws://127.0.0.1:38837
+1686066828399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:38837/devtools/browser/d03a8efd-3173-4fb6-b245-7b294b113745
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686067001021	geckodriver	INFO	Listening on 127.0.0.1:58979
+1686067001024	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledzRsZ8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686067002752	geckodriver	INFO	Listening on 127.0.0.1:60367
+1686067002753	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNaKe4u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686067028075	Marionette	INFO	Marionette enabled
+1686067028077	Marionette	INFO	Listening on port 45439
+Read port: 45439
+WebDriver BiDi listening on ws://127.0.0.1:54131
+1686067028182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54131/devtools/browser/1c14e01c-b6ff-4555-8180-bc126c1b425e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686067129980	geckodriver	INFO	Listening on 127.0.0.1:47851
+1686067129981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34721" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaWM5bG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686067155285	Marionette	INFO	Marionette enabled
+1686067155287	Marionette	INFO	Listening on port 37771
+Read port: 37771
+WebDriver BiDi listening on ws://127.0.0.1:34721
+1686067155378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34721/devtools/browser/fed6a805-4540-4492-a49b-bf3d6d2db42b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16674, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686067186452	Marionette	INFO	Stopped listening on port 37771
+console.error: services.settings: 
+  main/search-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/quicksuggest getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1686067205513	geckodriver	INFO	Listening on 127.0.0.1:51213
+1686067205514	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNoyDZ4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686067230824	Marionette	INFO	Marionette enabled
+1686067230827	Marionette	INFO	Listening on port 35229
+Read port: 35229
+WebDriver BiDi listening on ws://127.0.0.1:39477
+1686067230920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:39477/devtools/browser/59c91a40-af47-44e3-b70e-49b5c53e394f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686067283832	geckodriver	INFO	Listening on 127.0.0.1:59977
+1686067283833	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9gXi7d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17017, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686067290494	Marionette	INFO	Stopped listening on port 35229
+1686067309117	Marionette	INFO	Marionette enabled
+1686067309119	Marionette	INFO	Listening on port 46065
+Read port: 46065
+WebDriver BiDi listening on ws://127.0.0.1:34071
+1686067309219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34071/devtools/browser/b221d9be-66fe-4450-925c-08968a17af98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 17569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 17569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 17631, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686067899124	geckodriver	INFO	Listening on 127.0.0.1:48363
+1686067899125	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAf3fV9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686067924401	Marionette	INFO	Marionette enabled
+1686067924403	Marionette	INFO	Listening on port 35819
+Read port: 35819
+WebDriver BiDi listening on ws://127.0.0.1:41633
+1686067924506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41633/devtools/browser/0b553fd9-c57d-4b8f-a480-7f932d33b559
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18670, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686067965782	Marionette	INFO	Stopped listening on port 35819
+1686068022172	geckodriver	INFO	Listening on 127.0.0.1:60991
+1686068022174	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "35237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileskpCZZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686068047467	Marionette	INFO	Marionette enabled
+1686068047469	Marionette	INFO	Listening on port 36847
+Read port: 36847
+WebDriver BiDi listening on ws://127.0.0.1:35237
+1686068047569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35237/devtools/browser/a4fe20ff-7df4-401f-a958-0a435f157614
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1686068069057	geckodriver	INFO	Listening on 127.0.0.1:43645
+1686068069059	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq0iLVZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686068094357	Marionette	INFO	Marionette enabled
+1686068094359	Marionette	INFO	Listening on port 41517
+Read port: 41517
+WebDriver BiDi listening on ws://127.0.0.1:48795
+1686068094457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48795/devtools/browser/41f6ad22-9585-4922-bb84-0bb82fce7464
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686068105616	Marionette	INFO	Stopped listening on port 41517
+1686068299095	geckodriver	INFO	Listening on 127.0.0.1:42701
+1686068299097	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile53Alt1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686068324388	Marionette	INFO	Marionette enabled
+1686068324390	Marionette	INFO	Listening on port 38057
+Read port: 38057
+WebDriver BiDi listening on ws://127.0.0.1:56755
+1686068324496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56755/devtools/browser/c79bf116-4e11-473a-af5d-768c2ae3c292
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 20178, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 20246, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 20296, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1686068362583	geckodriver	INFO	Listening on 127.0.0.1:58991
+1686068362584	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNwCUk1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686068387940	Marionette	INFO	Marionette enabled
+1686068387942	Marionette	INFO	Listening on port 40609
+Read port: 40609
+WebDriver BiDi listening on ws://127.0.0.1:52553
+1686068388045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52553/devtools/browser/61502617-82a6-4bec-b7bf-7af2b0ee9649
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 20755, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 20805, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686070412639	geckodriver	INFO	Listening on 127.0.0.1:51657
+1686070412641	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo9LCwz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686070437926	Marionette	INFO	Marionette enabled
+1686070437928	Marionette	INFO	Listening on port 36263
+Read port: 36263
+WebDriver BiDi listening on ws://127.0.0.1:41777
+1686070438030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41777/devtools/browser/60b3e1d1-89f3-4142-bfdc-b05f051301ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 24415, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 24542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686076095748	geckodriver	INFO	Listening on 127.0.0.1:58217
+1686076096249	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev3odut"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686076121558	Marionette	INFO	Marionette enabled
+1686076121560	Marionette	INFO	Listening on port 34409
+Read port: 34409
+WebDriver BiDi listening on ws://127.0.0.1:38911
+1686076121669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:38911/devtools/browser/b6448a70-92e9-42ec-82e9-28605b891826
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 4222, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 4284, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4121, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686076137370	Marionette	INFO	Stopped listening on port 34409
+1686076148494	geckodriver	INFO	Listening on 127.0.0.1:41315
+1686076148495	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFcyNjz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686076173796	Marionette	INFO	Marionette enabled
+1686076173798	Marionette	INFO	Listening on port 36737
+Read port: 36737
+WebDriver BiDi listening on ws://127.0.0.1:41033
+1686076173907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41033/devtools/browser/1a7c5d55-b30a-4ec3-9be4-ea7df8d74c6c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 4908, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686077605995	geckodriver	INFO	Listening on 127.0.0.1:56753
+1686077605996	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "58635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSJhE6m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686077631298	Marionette	INFO	Marionette enabled
+1686077631300	Marionette	INFO	Listening on port 46485
+Read port: 46485
+WebDriver BiDi listening on ws://127.0.0.1:58635
+1686077631407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58635/devtools/browser/8ea2c832-c058-43cf-bb18-54efee4f64e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 6899, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1686077721434	geckodriver	INFO	Listening on 127.0.0.1:56299
+1686077721435	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNZY3pE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686077726292	Marionette	INFO	Marionette enabled
+1686077726294	Marionette	INFO	Listening on port 38633
+Read port: 38633
+WebDriver BiDi listening on ws://127.0.0.1:43075
+1686077726412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:43075/devtools/browser/9f42bc84-6d15-410e-83ab-420a06fbd35e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 7418, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 7482, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7317, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686077770494	Marionette	INFO	Stopped listening on port 38633
+1686077837354	geckodriver	INFO	Listening on 127.0.0.1:38587
+1686077837356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBJvEIF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686077862655	Marionette	INFO	Marionette enabled
+1686077862657	Marionette	INFO	Listening on port 36911
+Read port: 36911
+WebDriver BiDi listening on ws://127.0.0.1:59683
+1686077862767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59683/devtools/browser/f2315360-1208-4d35-8b9f-0b4ab8840564
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 8071, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686077868968	Marionette	INFO	Stopped listening on port 36911
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7871, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686078035914	geckodriver	INFO	Listening on 127.0.0.1:32859
+1686078035915	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec5TdMA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686078061190	Marionette	INFO	Marionette enabled
+1686078061192	Marionette	INFO	Listening on port 45333
+Read port: 45333
+WebDriver BiDi listening on ws://127.0.0.1:56107
+1686078061300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56107/devtools/browser/889fedd7-97ca-4b65-af65-40d8e0c8d4a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 8583, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 8627, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686078067612	Marionette	INFO	Stopped listening on port 45333
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 8479, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686078208822	geckodriver	INFO	Listening on 127.0.0.1:58013
+1686078239901	geckodriver	INFO	Listening on 127.0.0.1:49633
+1686078239903	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5JRzUb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686078265182	Marionette	INFO	Marionette enabled
+1686078265184	Marionette	INFO	Listening on port 42909
+Read port: 42909
+WebDriver BiDi listening on ws://127.0.0.1:49069
+1686078265286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49069/devtools/browser/5a4f7876-81a6-4b8f-832a-9bd0976280d7
+1686078267446	Marionette	INFO	Stopped listening on port 42909
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9091, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686078268335	geckodriver	INFO	Listening on 127.0.0.1:45913
+1686078268837	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex8c87e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686078294136	Marionette	INFO	Marionette enabled
+1686078294138	Marionette	INFO	Listening on port 33859
+Read port: 33859
+WebDriver BiDi listening on ws://127.0.0.1:47117
+1686078294252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:47117/devtools/browser/d070ba68-423e-4f2f-a411-8b4f3875a843
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 9549, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 9553, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 9641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686078304612	Marionette	INFO	Stopped listening on port 33859
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 9426, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079057725	geckodriver	INFO	Listening on 127.0.0.1:56139
+1686079057726	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE89CNU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079083261	Marionette	INFO	Marionette enabled
+1686079083263	Marionette	INFO	Listening on port 37865
+WebDriver BiDi listening on ws://127.0.0.1:43667
+Read port: 37865
+1686079083379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:43667/devtools/browser/3efcfc7a-c33e-4fba-8aa6-7ae5d3901ec3
+1686079085388	Marionette	INFO	Stopped listening on port 37865
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11492, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079086435	geckodriver	INFO	Listening on 127.0.0.1:56735
+1686079086937	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerWpQpx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079112227	Marionette	INFO	Marionette enabled
+1686079112229	Marionette	INFO	Listening on port 44659
+Read port: 44659
+WebDriver BiDi listening on ws://127.0.0.1:49629
+1686079112337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49629/devtools/browser/d04f8fc6-77ad-4ca1-a528-b052981ed9c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 11920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 11924, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079117850	Marionette	INFO	Stopped listening on port 44659
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 11796, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079441043	geckodriver	INFO	Listening on 127.0.0.1:36033
+1686079441045	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBiSqdv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079447819	geckodriver	INFO	Listening on 127.0.0.1:37425
+1686079447820	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3ENiBa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079473147	Marionette	INFO	Marionette enabled
+1686079473149	Marionette	INFO	Listening on port 35793
+WebDriver BiDi listening on ws://127.0.0.1:45309
+Read port: 35793
+1686079473329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45309/devtools/browser/8b9cb170-4da2-486a-8484-db072c150ab4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 12937, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 12942, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079479262	Marionette	INFO	Stopped listening on port 35793
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12812, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079479692	geckodriver	INFO	Listening on 127.0.0.1:32869
+1686079480194	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCK7rGP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079499950	Marionette	INFO	Marionette enabled
+1686079499952	Marionette	INFO	Listening on port 34283
+Read port: 34283
+WebDriver BiDi listening on ws://127.0.0.1:43685
+1686079500055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:43685/devtools/browser/5b00c3ef-ee1c-419d-b440-0ed57e3bd775
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 13362, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079505883	Marionette	INFO	Stopped listening on port 34283
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13258, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079506291	geckodriver	INFO	Listening on 127.0.0.1:56537
+1686079506794	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH6lZnC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079532095	Marionette	INFO	Marionette enabled
+1686079532097	Marionette	INFO	Listening on port 37889
+Read port: 37889
+WebDriver BiDi listening on ws://127.0.0.1:42281
+1686079532194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:42281/devtools/browser/1c93c2ee-f65c-4f42-b5c9-67f6a328ab2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 13826, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079537640	Marionette	INFO	Stopped listening on port 37889
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 13702, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079539248	geckodriver	INFO	Listening on 127.0.0.1:58321
+1686079539750	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemisiJf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079565042	Marionette	INFO	Marionette enabled
+1686079565044	Marionette	INFO	Listening on port 39213
+Read port: 39213
+WebDriver BiDi listening on ws://127.0.0.1:56671
+1686079565147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56671/devtools/browser/3ea3ff29-5c3f-45ec-931d-b9c4fd53d6eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 14286, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 14354, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079570861	Marionette	INFO	Stopped listening on port 39213
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14142, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079571264	geckodriver	INFO	Listening on 127.0.0.1:58239
+1686079571766	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekmxS6e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079597060	Marionette	INFO	Marionette enabled
+1686079597063	Marionette	INFO	Listening on port 40911
+Read port: 40911
+WebDriver BiDi listening on ws://127.0.0.1:34317
+1686079597147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34317/devtools/browser/1f8cc5e7-7c58-4c2e-a706-26e4a064b27d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 14721, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 14788, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079603062	Marionette	INFO	Stopped listening on port 40911
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14576, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079603752	geckodriver	INFO	Listening on 127.0.0.1:46887
+1686079604254	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileua0xL8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079627078	Marionette	INFO	Marionette enabled
+1686079627080	Marionette	INFO	Listening on port 45255
+WebDriver BiDi listening on ws://127.0.0.1:41271
+Read port: 45255
+1686079627248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41271/devtools/browser/4afead60-9f6d-4283-9b4d-2a48057770cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 15097, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 15160, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 15208, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079632818	Marionette	INFO	Stopped listening on port 45255
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 14994, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079634830	geckodriver	INFO	Listening on 127.0.0.1:51079
+1686079635333	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem6ZQ1m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079660699	Marionette	INFO	Marionette enabled
+1686079660701	Marionette	INFO	Listening on port 46867
+Read port: 46867
+WebDriver BiDi listening on ws://127.0.0.1:50465
+1686079660790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50465/devtools/browser/d53e60cc-0a40-466a-bde4-ec528e32c065
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 15542, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079666704	Marionette	INFO	Stopped listening on port 46867
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15441, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079667134	geckodriver	INFO	Listening on 127.0.0.1:50887
+1686079667636	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "59311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex2tjhQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079692938	Marionette	INFO	Marionette enabled
+1686079692940	Marionette	INFO	Listening on port 42377
+Read port: 42377
+WebDriver BiDi listening on ws://127.0.0.1:59311
+1686079693032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59311/devtools/browser/c7821ca3-7750-4c65-95da-2020464b3995
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 15959, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 16003, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079703192	Marionette	INFO	Stopped listening on port 42377
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15857, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079703618	geckodriver	INFO	Listening on 127.0.0.1:42425
+1686079704120	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevL1Kaz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079729409	Marionette	INFO	Marionette enabled
+1686079729411	Marionette	INFO	Listening on port 36927
+Read port: 36927
+WebDriver BiDi listening on ws://127.0.0.1:55349
+1686079729523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55349/devtools/browser/a87db37d-51ea-4336-8166-c2d000b1c03f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079735466	Marionette	INFO	Stopped listening on port 36927
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16291, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079737126	geckodriver	INFO	Listening on 127.0.0.1:57431
+1686079737628	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO9bUkM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079755663	Marionette	INFO	Marionette enabled
+1686079755665	Marionette	INFO	Listening on port 44247
+Read port: 44247
+WebDriver BiDi listening on ws://127.0.0.1:54103
+1686079755797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54103/devtools/browser/8006be5d-1d88-4492-b4a3-74dc93413432
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 16834, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 16839, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 16945, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079761570	Marionette	INFO	Stopped listening on port 44247
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 16730, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079761988	geckodriver	INFO	Listening on 127.0.0.1:58365
+1686079762491	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNTenik"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079787789	Marionette	INFO	Marionette enabled
+1686079787791	Marionette	INFO	Listening on port 37919
+Read port: 37919
+WebDriver BiDi listening on ws://127.0.0.1:40013
+1686079787907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:40013/devtools/browser/01a98813-85e9-400d-acaa-27c47c62dc19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 17456, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 17595, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079793725	Marionette	INFO	Stopped listening on port 37919
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17353, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079794131	geckodriver	INFO	Listening on 127.0.0.1:41971
+1686079794633	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiD4SyV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079819977	Marionette	INFO	Marionette enabled
+1686079819980	Marionette	INFO	Listening on port 36773
+Read port: 36773
+WebDriver BiDi listening on ws://127.0.0.1:41849
+1686079820140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41849/devtools/browser/4802bf16-f080-44d4-817c-64445a8bf4ee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 18144, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 18247, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079826077	Marionette	INFO	Stopped listening on port 36773
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17998, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079826497	geckodriver	INFO	Listening on 127.0.0.1:50497
+1686079826998	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "46933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexxnNTc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079852363	Marionette	INFO	Marionette enabled
+1686079852365	Marionette	INFO	Listening on port 45753
+Read port: 45753
+WebDriver BiDi listening on ws://127.0.0.1:46933
+1686079852466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:46933/devtools/browser/da7765d5-a1f4-41fa-b846-3915cd86ad05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 18668, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 18726, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079858491	Marionette	INFO	Stopped listening on port 45753
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18563, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079860789	geckodriver	INFO	Listening on 127.0.0.1:51183
+1686079860791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezg2bl1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079882769	Marionette	INFO	Marionette enabled
+1686079882771	Marionette	INFO	Listening on port 44225
+Read port: 44225
+WebDriver BiDi listening on ws://127.0.0.1:38493
+1686079882877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:38493/devtools/browser/12f508f1-5428-4a2a-aa8d-03af1ec6b868
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 19154, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 19208, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079889178	Marionette	INFO	Stopped listening on port 44225
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 18986, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079889581	geckodriver	INFO	Listening on 127.0.0.1:39357
+1686079890083	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJpFQdm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079915437	Marionette	INFO	Marionette enabled
+1686079915439	Marionette	INFO	Listening on port 38443
+Read port: 38443
+WebDriver BiDi listening on ws://127.0.0.1:40851
+1686079915605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:40851/devtools/browser/fea3f87c-4940-4b24-8b73-7219f6970eb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 19591, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079921847	Marionette	INFO	Stopped listening on port 38443
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19439, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079923195	geckodriver	INFO	Listening on 127.0.0.1:36017
+1686079923697	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDmv4lz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079949063	Marionette	INFO	Marionette enabled
+1686079949065	Marionette	INFO	Listening on port 40557
+Read port: 40557
+WebDriver BiDi listening on ws://127.0.0.1:48227
+1686079949251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48227/devtools/browser/790866a5-6514-4440-bcc6-818c32590680
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079955343	Marionette	INFO	Stopped listening on port 40557
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 19906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079956031	geckodriver	INFO	Listening on 127.0.0.1:56011
+1686079956532	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewmq5kF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686079981890	Marionette	INFO	Marionette enabled
+1686079981892	Marionette	INFO	Listening on port 38547
+Read port: 38547
+WebDriver BiDi listening on ws://127.0.0.1:50139
+1686079982054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50139/devtools/browser/4afda8f0-bf72-4dda-84d9-008b2c9d3e31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 20511, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686079988113	Marionette	INFO	Stopped listening on port 38547
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20345, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686079988832	geckodriver	INFO	Listening on 127.0.0.1:60933
+1686079989333	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler6EN1b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080010518	Marionette	INFO	Marionette enabled
+1686080010520	Marionette	INFO	Listening on port 40801
+Read port: 40801
+WebDriver BiDi listening on ws://127.0.0.1:55265
+1686080010765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55265/devtools/browser/5c5c4370-831f-48c0-86b1-9d60d2cd4aa7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 20906, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 20947, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 21015, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080017036	Marionette	INFO	Stopped listening on port 40801
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 20802, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080018356	geckodriver	INFO	Listening on 127.0.0.1:35833
+1686080018858	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesXcyPl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080044226	Marionette	INFO	Marionette enabled
+1686080044228	Marionette	INFO	Listening on port 45527
+Read port: 45527
+WebDriver BiDi listening on ws://127.0.0.1:44529
+1686080044351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:44529/devtools/browser/9773bb8a-7044-4943-9b92-5566f120806b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 21377, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 21419, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686080049869	Marionette	INFO	Stopped listening on port 45527
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21248, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080051100	geckodriver	INFO	Listening on 127.0.0.1:35011
+1686080051601	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuvRRaK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080077010	Marionette	INFO	Marionette enabled
+1686080077012	Marionette	INFO	Listening on port 36767
+Read port: 36767
+WebDriver BiDi listening on ws://127.0.0.1:33399
+1686080077158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:33399/devtools/browser/c929f70b-4ad8-4083-8002-e5d3f2dc4956
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686080087865	Marionette	INFO	Stopped listening on port 36767
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 21709, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080088311	geckodriver	INFO	Listening on 127.0.0.1:57981
+1686080088812	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqmi7mR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080114198	Marionette	INFO	Marionette enabled
+1686080114201	Marionette	INFO	Listening on port 34297
+Read port: 34297
+WebDriver BiDi listening on ws://127.0.0.1:44115
+1686080114398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:44115/devtools/browser/6a9acbd1-eb19-4a64-b4a1-5336a77892f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 22631, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080125711	Marionette	INFO	Stopped listening on port 34297
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22416, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080126180	geckodriver	INFO	Listening on 127.0.0.1:42019
+1686080126682	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "52917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVOKJLv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080139263	Marionette	INFO	Marionette enabled
+1686080139265	Marionette	INFO	Listening on port 34491
+Read port: 34491
+WebDriver BiDi listening on ws://127.0.0.1:52917
+1686080139430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52917/devtools/browser/2023cc6a-b80f-47fa-b6be-c0fadbb8e427
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 22935, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 22983, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686080150121	Marionette	INFO	Stopped listening on port 34491
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 22836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080150567	geckodriver	INFO	Listening on 127.0.0.1:39767
+1686080151068	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "53677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiNB3kU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080176451	Marionette	INFO	Marionette enabled
+1686080176453	Marionette	INFO	Listening on port 43701
+Read port: 43701
+WebDriver BiDi listening on ws://127.0.0.1:53677
+1686080176581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53677/devtools/browser/0ad090b3-e774-40ec-ab58-690265f9565f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 23415, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 23484, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 23534, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080182506	Marionette	INFO	Stopped listening on port 43701
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23309, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080184836	geckodriver	INFO	Listening on 127.0.0.1:59321
+1686080185338	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenqdzci"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080210838	Marionette	INFO	Marionette enabled
+1686080210840	Marionette	INFO	Listening on port 44081
+Read port: 44081
+WebDriver BiDi listening on ws://127.0.0.1:57485
+1686080210987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57485/devtools/browser/1b35ec06-e83c-41ec-8942-703a8c10079c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+[Child 23883, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 23923, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+[Child 23971, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080216975	Marionette	INFO	Stopped listening on port 44081
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23759, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080219343	geckodriver	INFO	Listening on 127.0.0.1:47059
+1686080219844	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "33009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSclTbO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080245267	Marionette	INFO	Marionette enabled
+1686080245270	Marionette	INFO	Listening on port 43693
+Read port: 43693
+WebDriver BiDi listening on ws://127.0.0.1:33009
+1686080245474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:33009/devtools/browser/61b3a685-68e2-45bd-abfc-1dfd76e1806d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 24407, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686080251185	Marionette	INFO	Stopped listening on port 43693
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24235, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686080251611	geckodriver	INFO	Listening on 127.0.0.1:39251
+1686080252113	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePHM1XA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686080271451	Marionette	INFO	Marionette enabled
+1686080271454	Marionette	INFO	Listening on port 43221
+Read port: 43221
+WebDriver BiDi listening on ws://127.0.0.1:34723
+1686080271599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34723/devtools/browser/b04a6798-485a-436c-8907-def8d025b477
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://astonfutures.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://adfs3.aston.ac.uk."
+[Child 24830, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (MarionetteCommands, MarionetteCommandsParent:findElement) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.openathens.net."
+1686080277390	Marionette	INFO	Stopped listening on port 43221
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24684, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 6790, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1686082641287	Marionette	INFO	Stopped listening on port 46485
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4641, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/src/firefox-113.0.2/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686082643437	Marionette	INFO	Stopped listening on port 36737
