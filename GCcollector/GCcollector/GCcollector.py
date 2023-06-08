@@ -54,7 +54,7 @@ def main():
     f = open('Data/Complete.csv', 'a', newline='', encoding='utf-8')
     writer = csv.writer(f)
     links = getLinks()
-    links = ['https://www.linkedin.com/jobs/view/3619639236/?eBP=CwEAAAGIklSbQNHUvxVYLuGkvgWO_dLOOmS7-95DOvH56e8o1Zm9NNpBjdlpuEt-sYRc20Q8nVah53b97i78gJ2XsuchBfGQUXkVc8qXsGNebY-CcfaMngCQ1TLArgmpxSyqbetJpLOYUfQJVCvjnIMKcck-OWBu9NvjoybMePCepbyhu6f8-fwcJAvHAJwcXc5NgN1w5Dg2QP0sMt4yGFBhhn7lMDp8MwfPrj1bIl9qEQ5PcBO4q-aFj6YSzQyvW4RySo4eG_jWqakIhLlKbN1NBAi6ZIzJF_6e87eFGphUb7BuSsGmCCq5l0PtgqWafChqs32c3uf5UW36mF3SrTVEYTyPSry4&recommendedFlavor=SCHOOL_RECRUIT&refId=BMDQYAla2kPs6B4SNGgpTQ%3D%3D&trackingId=1zi3uqDutDTL91FPf7Mhwg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BaSdNbRhCRvGCanqwHU9CBA%3D%3D&lici=1zi3uqDutDTL91FPf7Mhwg%3D%3D']
+    #links = ['https://www.linkedin.com/jobs/view/3619639236/?eBP=CwEAAAGIklSbQNHUvxVYLuGkvgWO_dLOOmS7-95DOvH56e8o1Zm9NNpBjdlpuEt-sYRc20Q8nVah53b97i78gJ2XsuchBfGQUXkVc8qXsGNebY-CcfaMngCQ1TLArgmpxSyqbetJpLOYUfQJVCvjnIMKcck-OWBu9NvjoybMePCepbyhu6f8-fwcJAvHAJwcXc5NgN1w5Dg2QP0sMt4yGFBhhn7lMDp8MwfPrj1bIl9qEQ5PcBO4q-aFj6YSzQyvW4RySo4eG_jWqakIhLlKbN1NBAi6ZIzJF_6e87eFGphUb7BuSsGmCCq5l0PtgqWafChqs32c3uf5UW36mF3SrTVEYTyPSry4&recommendedFlavor=SCHOOL_RECRUIT&refId=BMDQYAla2kPs6B4SNGgpTQ%3D%3D&trackingId=1zi3uqDutDTL91FPf7Mhwg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BaSdNbRhCRvGCanqwHU9CBA%3D%3D&lici=1zi3uqDutDTL91FPf7Mhwg%3D%3D']
     for link in links:
         id = id + 1
         if 'gradcracker' in link:
@@ -64,11 +64,44 @@ def main():
             print('Aston')
             Aston_Futures(id, link, writer)
         if 'linkedin' in link.lower() :
+            linkedin(id,link,writer)
 
     f.close()
 
 def linkedin(id,link,writer):
-    
+    opts = Options()
+    opts.binary_location = r'/usr/lib/firefox/firefox'
+    browser = Firefox(options=opts)
+    browser.get(link)
+    try:
+        title = browser.find_element(By.XPATH,'/html/body/main/section[1]/div/section[2]/div/div[1]/div/h1').text
+        industry = browser.find_element(By.XPATH, '/html/body/main/section[1]/div/div/section[1]/div/ul/li[4]/span').text
+        jobType = ' '
+        company = browser.find_element(By.XPATH,'/html/body/main/section[1]/div/section[2]/div/div[1]/div/h4/div[1]/span[1]/a').text
+        salary = ' '
+        grade = ' '
+        deadline = ' '
+        daysLeft = ' '
+        email = ' '
+        recruiterName = ' '
+        stage = ' '
+        interviewDate = ' '
+        startingDate = ' '
+        applied = 'no'
+        applicationLink = browser.find_element(By.XPATH,'/html/body/main/section[1]/div/section[2]/div/div[1]/div/div/button[1]').get_attribute('href')
+        location = browser.find_element(By.XPATH,"/html/body/main/section[1]/div/section[2]/div/div[1]/div/h4/div[1]/span[2]").text
+        score = ' '
+        row = [id,title,industry,company,salary,grade,deadline,daysLeft,email,recruiterName,stage,interviewDate,startingDate,applied,applicationLink,location,score]
+        print(row)
+        writer.writerow(row)
+    except Exception as e:
+        print('stupid linked in moment')
+        print(e)
+
+
+    browser.close()
+
+
 
 def Aston_Futures(id, link, writer):
     opts = Options()
