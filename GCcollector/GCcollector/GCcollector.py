@@ -1,12 +1,15 @@
+import math
+
 import requests
 from selenium.common import InvalidArgumentException
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
-
+from geopy.geocoders import Nominatim
 import pandas
 import csv
 
+myLocation = [52.46834052773638, -1.9266710755089225]#no way am i giving you my location
 
 def month_to_int(month):
     months = {"January": 1,
@@ -47,8 +50,86 @@ def addDisciplines(id, grades):
 
     f.close()
 
+def parseSalary(salary): #returns salary in a workable format
+    if'Competitive' in salary.lower() or salary == '':
+        #gonna go with the average salary
+        return [25000,1] #given penalty of 1
+    if '£' in salary:
+        salary = salary.split(' ')[0]
+        salary = salary.replace('£','')
+        salary = salary.replace(',','')
+        salary = salary.replace('+','')
+        salary = salary.replace('k','000')
+        salary = salary.replace('K','000')
+        return [int(salary),0]
 
+def getScore(salary,grade,location):
+    #(salary-1000 x penalty)/distance - grade  - equation for score
+    penalty = 0
+    motivation = 0
+    difficulty = 0
+    salary , penaltySal = parseSalary(salary)
+    penalty = penalty + penaltySal
+    print(penalty)
+    grade , penaltyGrade = gradeParser(grade)
+    penalty = penalty + penaltyGrade
+    print(penalty)
+    distance, penaltyDist = getdistance(location)
+    penalty = penalty + penaltyDist
+    print(penalty)
+    motivation = salary/(distance * 80)
+    if 'birmingham' in location.lower():
+        motivation = 2 + salary/10000  #best cast scenario since trvael is easy
+    print(motivation)
+
+    difficulty = grade + penalty
+    score = motivation - difficulty
+
+    return score
+def gradeParser(grade):
+    if '2.01' in grade:
+        return [2,0]
+    if '2.02' in grade:
+        return [1,0]
+    if '1st' in grade:
+        return [3,0]
+    else:
+        return [2,1] #given penalty of 1
+
+
+def getdistance(location1):
+    penalty = 0
+    if 'remote' in location1.lower() or 'hybrid' in location1.lower():
+        penalty = -1
+    if ' ' in location1:
+        location1 = location1.split(' ')[0]
+    if location1 == '':
+        return [15000,1] #given penalty of 1 with a distacne of 15000
+
+    location1 = getCoords(location1)
+    distance = calculateDistance(location1)
+    return [distance,penalty]
+
+def calculateDistance(location1):
+    lat1, lon1 = myLocation
+    lat2, lon2 = location1
+    R = 6371  # Radius of the earth in km
+    phi1 = math.radians(lat1)
+    phi2 = math.radians(lat2)
+    dphi = math.radians(lat2 - lat1)
+    dlambda = math.radians(lon2 - lon1)
+    a = math.sin(dphi/2.0) **2 + math.cos(phi1) * math.cos(phi2)*math.sin(dlambda/2.0)**2
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
+    distance = round(R * c,3)
+    return distance  #distance in decimetres, allows better comparison, any location over 100 km would be less than 10 in final score
+def getCoords(location):
+    geolocator = Nominatim(user_agent="GCcollector")
+    location = geolocator.geocode(location)
+    return [location.latitude,location.longitude]
 def main():
+
+    print(getScore('£100,000','2.01','birmingham remote'))
+    return
     # links = getLinks()
     id = get_id()
     f = open('Data/Complete.csv', 'a', newline='', encoding='utf-8')
