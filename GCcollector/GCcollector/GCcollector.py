@@ -169,10 +169,10 @@ def linkedin(id,link,writer):
         interviewDate = ' '
         startingDate = ' '
         applied = 'no'
-        applicationLink = browser.find_element(By.XPATH,'/html/body/main/section[1]/div/section[2]/div/div[1]/div/div/button[1]').get_attribute('href')
+        applicationLink = link
         location = browser.find_element(By.XPATH,"/html/body/main/section[1]/div/section[2]/div/div[1]/div/h4/div[1]/span[2]").text
         score = ' '
-        row = [id,title,industry,company,salary,grade,deadline,daysLeft,email,recruiterName,stage,interviewDate,startingDate,applied,applicationLink,location,score]
+        row = [id,title,jobType,industry,company,salary,grade,deadline,daysLeft,email,recruiterName,stage,interviewDate,startingDate,applied,applicationLink,location,score]
         print(row)
         writer.writerow(row)
     except Exception as e:
